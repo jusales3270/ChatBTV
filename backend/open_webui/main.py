@@ -1716,7 +1716,7 @@ async def get_app_changelog():
 @app.get("/api/usage")
 async def get_current_usage(user=Depends(get_verified_user)):
     """
-    Get current usage statistics for Open WebUI.
+    Get current usage statistics for ChatBTV.
     This is an experimental endpoint and subject to change.
     """
     try:
@@ -1765,7 +1765,7 @@ async def get_manifest_json():
         return {
             "name": app.state.WEBUI_NAME,
             "short_name": app.state.WEBUI_NAME,
-            "description": "Open WebUI is an open, extensible, user-friendly interface for AI that adapts to your workflow.",
+            "description": "O ChatBTV é uma interface amigável e adaptável, desenvolvida para uso interno na Prefeitura de Boituva",
             "start_url": "/",
             "display": "standalone",
             "background_color": "#343541",
