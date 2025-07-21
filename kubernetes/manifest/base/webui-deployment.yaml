@@ -1,20 +1,20 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: open-webui-deployment
-  namespace: open-webui
+  name: chatbtv-deployment
+  namespace: chatbtv
 spec:
   replicas: 1
   selector:
     matchLabels:
-      app: open-webui
+      app: chatbtv
   template:
     metadata:
       labels:
-        app: open-webui
+        app: chatbtv
     spec:
       containers:
-      - name: open-webui
+      - name: chatbtv
         image: ghcr.io/open-webui/open-webui:main
         ports:
         - containerPort: 8080
