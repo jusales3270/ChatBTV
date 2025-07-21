@@ -1,19 +1,19 @@
-# Contributing to Open WebUI
+# Contributing to ChatBTV
 
 🚀 **Welcome, Contributors!** 🚀
 
-Your interest in contributing to Open WebUI is greatly appreciated. This document is here to guide you through the process, ensuring your contributions enhance the project effectively. Let's make Open WebUI even better, together!
+Your interest in contributing to Open WebUI is greatly appreciated. This document is here to guide you through the process, ensuring your contributions enhance the project effectively. Let's make ChatBTV even better, together!
 
 ## 📌 Key Points
 
-### 🦙 Ollama vs. Open WebUI
+### 🦙 Ollama vs. ChatBTV
 
-It's crucial to distinguish between Ollama and Open WebUI:
+It's crucial to distinguish between Ollama and ChatBTV:
 
-- **Open WebUI** focuses on providing an intuitive and responsive web interface for chat interactions.
+- **ChatBTV** focuses on providing an intuitive and responsive web interface for chat interactions.
 - **Ollama** is the underlying technology that powers these interactions.
 
-If your issue or contribution pertains directly to the core Ollama technology, please direct it to the appropriate [Ollama project repository](https://ollama.com/). Open WebUI's repository is dedicated to the web interface aspect only.
+If your issue or contribution pertains directly to the core Ollama technology, please direct it to the appropriate [Ollama project repository](https://ollama.com/). ChatBTV's repository is dedicated to the web interface aspect only.
 
 ### 🚨 Reporting Issues
 
@@ -26,9 +26,9 @@ Noticed something off? Have an idea? Check our [Issues tab](https://github.com/o
 
 ### 🧭 Scope of Support
 
-We've noticed an uptick in issues not directly related to Open WebUI but rather to the environment it's run in, especially Docker setups. While we strive to support Docker deployment, understanding Docker fundamentals is crucial for a smooth experience.
+We've noticed an uptick in issues not directly related to ChatBTV but rather to the environment it's run in, especially Docker setups. While we strive to support Docker deployment, understanding Docker fundamentals is crucial for a smooth experience.
 
-- **Docker Deployment Support**: Open WebUI supports Docker deployment. Familiarity with Docker is assumed. For Docker basics, please refer to the [official Docker documentation](https://docs.docker.com/get-started/overview/).
+- **Docker Deployment Support**: ChatBTV supports Docker deployment. Familiarity with Docker is assumed. For Docker basics, please refer to the [official Docker documentation](https://docs.docker.com/get-started/overview/).
 
 - **Advanced Configurations**: Setting up reverse proxies for HTTPS and managing Docker deployments requires foundational knowledge. There are numerous online resources available to learn these skills. Ensuring you have this knowledge will greatly enhance your experience with Open WebUI and similar projects.
 
@@ -68,6 +68,6 @@ Got questions or feedback? Join our [Discord community](https://discord.gg/5rJgQ
 
 ## 🙏 Thank You!
 
-Your contributions, big or small, make a significant impact on Open WebUI. We're excited to see what you bring to the project!
+Your contributions, big or small, make a significant impact on ChatBTV. We're excited to see what you bring to the project!
 
 Together, let's create an even more powerful tool for the community. 🌟
