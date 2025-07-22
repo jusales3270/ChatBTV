@@ -46,6 +46,7 @@
 	let createModelLoading = false;
 	let createModelName = '';
 	let createModelObject = '';
+	let createModelTag = ''; // CORREÇÃO: Variável que faltava adicionada aqui.
 
 	let createModelDigest = '';
 	let createModelPullProgress = null;
@@ -1059,4 +1060,4 @@
 	<div class="flex justify-center items-center w-full h-full py-3">
 		<Spinner className="size-5" />
 	</div>
-{/if}
+{/if}```
